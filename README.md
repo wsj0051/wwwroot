@@ -9,5 +9,6 @@
 
 ---------
 ##页面显示效果
-![image](https://github.com/wsj0051/wwwroot/blob/master/img/localhost.png)
+
+![image](http://github.com/wsj0051/wwwroot/raw/master/img/localhost.png)
 
